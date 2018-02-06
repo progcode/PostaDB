@@ -1,7 +1,7 @@
 # PostaDB
-magyarorszagi iranyitoszamok es telepulesek adatbazisa
+Magyarorszagi iranyitoszamok es telepulesek adatbazisa
 
 Adatbazis .sql .csv es .xls formatumban, a Magyar Posta adatbazisa alapjan    
 http://posta.hu/ugyfelszolgalat/iranyitoszam_kereso   
 
-Frissitve: 2016.10.20
+Frissitve: 2018.02.06
